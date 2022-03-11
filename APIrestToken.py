@@ -1,3 +1,5 @@
 import time
 
-time.sleep(10)
+time.sleep(5)
+
+print("atualização 2")
